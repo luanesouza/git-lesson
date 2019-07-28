@@ -3,6 +3,7 @@
 - Intro to Github
 - Github commands
 - Using Github to work in pairs/groups. What to expect. Steps needed for a successful Github experience.
+  - Branching
 - Resolving conflicts
 
 - Workflow management apps
