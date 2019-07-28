@@ -2,6 +2,7 @@
 
 - Intro to Github
 - Github commands
+   - What is --force and why you shouldn't use it
 - Using Github to work in pairs/groups. What to expect. Steps needed for a successful Github experience.
   - Branching
 - Resolving conflicts
