@@ -5,7 +5,7 @@
   https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - Using Github to work in pairs/groups. What to expect. Steps needed for a successful Github experience.
   - Branching
-- Resolving conflicts
+- Resolving conflict
 
 - Workflow management apps
 
