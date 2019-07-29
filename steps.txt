@@ -1,5 +1,4 @@
 1. Create a repo on github
-This is my line of code (Annie)
 2. Create a new rails app in your machine
 3. cd into your rails app and write on your terminal `git init` (you will probably get a message saying "Reinitialized existing Git repository in <path-name>")
 4. git remote add origin <url>
