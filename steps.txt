@@ -1,14 +1,15 @@
-1. Create a repo on github
+1. Create a repo on github LALALAL
+How are you! (RANDY)
 2. Create a new rails app in your machine
 3. cd into your rails app and write on your terminal `git init` (you will probably get a message saying "Reinitialized existing Git repository in <path-name>")
 4. git remote add origin <url>
-5. On your terminal: 
+5. On your terminal:
     - git add .
     - git commit -m "adds message that are appropriate. Writes on third person and is as descriptive as possible"
     - git push origin master
 6. Add your partner as collaborator or the partner clones down the repo
 7. Never work on the master branch. That way, you cannot compromise by mistake the functionality of the code that other people are using.
-8. Commands for both parties: 
+8. Commands for both parties:
     - git checkout -b <name-of-branch-according-to-what-you-are-working-on>
     (this branch will have all the changes that are on master)
     - Make a change on the file
