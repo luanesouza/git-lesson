@@ -20,3 +20,4 @@
     - checkout the pseudo master. pull from the branch where the last changes were made
     - Solve the issues
     - (When you push the changes, they will not appear on the master right away, you will need to pull from master. Or merge the changes)
+    - Master will always be the main branch. If Master is ahead in commits, you will be able to delete it
