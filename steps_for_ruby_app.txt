@@ -1,13 +1,16 @@
-1. Create a repo on github
-2. Create a new app in your machine
-3. cd into your app and write on your terminal `git init` (you will probably get a message saying "Reinitialized existing Git repository in <path-name>")
-4. git remote add origin <url>
-5. On your terminal:
+1. Fork and clone https://github.com/luanesouza/git-lecture
+2. Add your partner as collaborator (action cannot be done from terminal)
+3. Partner clones down the repo
+4. Both parties cd into the cloned repo
+5. Both parties create a new branch
+    - git checkout -b <your_name> || git checkout -b <your_name_and_functionality_youre_working_on>
+6. On your terminal:
     - git add .
     - git commit -m "adds message that are appropriate. Writes on third person and is as descriptive as possible"
     - git push origin master
-6. Add your partner as collaborator or the partner clones down the repo
+
 7. Never work on the master branch. That way, you cannot compromise by mistake the functionality of the code that other people are using.
+
 8. Commands for both parties:
     - git checkout -b <name-of-branch-according-to-what-you-are-working-on>
     (this branch will have all the changes that are on master)
@@ -20,4 +23,4 @@
     - checkout the pseudo master. pull from the branch where the last changes were made
     - Solve the issues
     - (When you push the changes, they will not appear on the master right away, you will need to pull from master. Or merge the changes)
-    - Master will always be the main branch. If Master is ahead in commits, you will be able to delete it
+    - Master will always be the main branch. If Master is ahead in commits, you will not be able to delete it
